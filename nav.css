@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(107, 189, 114);
+}
+
+header {
+    background-color: #282828;
+    height: 70px;
+    width: 100%;
+}
+
+span {
+    color: #ffffff;
+}
+
+h1 {
+    padding: 3px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+    height: 40px;
+    width: 100%;
+    color: cyan;
+    position: absolute;
+}
+
+ul {
+    float: right;
+    width: auto;
+    margin-top: 8px;
+}
+
+li {
+    display: inline-block;
+    padding: 15px 30px;
+}
+
+nav {
+    float: right;
+    height: 70px;
+}
+
+.a {
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.link:hover {
+    color: moccasin;
+}
